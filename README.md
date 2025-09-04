@@ -4,7 +4,7 @@ In this repository, we release the dataset and scripts used in the IMC '25
 paper, *Replication: Performance of Cellular Networks on the Wheels*.
 
 <p align="center">
-<img src="figs/route_with_states_simple_replication.png" width="400"/>
+<img src="route_with_states_simple_replication.png" width="400"/>
 </p>
 
 **Authors**:
