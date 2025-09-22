@@ -1,0 +1,47 @@
+Start time: 1730525407588
+[2024-11-01T22:30:08.367] - client - INFO - Connected to 54.176.53.206:65432
+[2024-11-01T22:30:08.368] - client - INFO - PING 54.176.53.206 26(66) bytes of data.
+[2024-11-01T22:30:08.853] - client - INFO - 46 bytes from 54.176.53.206: time=484.57 ms
+[2024-11-01T22:30:09.646] - client - INFO - 46 bytes from 54.176.53.206: time=592.01 ms
+[2024-11-01T22:30:10.457] - client - INFO - 46 bytes from 54.176.53.206: time=609.15 ms
+[2024-11-01T22:30:11.087] - client - INFO - 46 bytes from 54.176.53.206: time=427.68 ms
+[2024-11-01T22:30:11.728] - client - INFO - 46 bytes from 54.176.53.206: time=439.88 ms
+[2024-11-01T22:30:12.529] - client - INFO - 46 bytes from 54.176.53.206: time=599.03 ms
+[2024-11-01T22:30:13.326] - client - INFO - 46 bytes from 54.176.53.206: time=595.87 ms
+[2024-11-01T22:30:14.128] - client - INFO - 46 bytes from 54.176.53.206: time=599.20 ms
+[2024-11-01T22:30:14.766] - client - INFO - 46 bytes from 54.176.53.206: time=437.01 ms
+[2024-11-01T22:30:15.569] - client - INFO - 46 bytes from 54.176.53.206: time=602.69 ms
+[2024-11-01T22:30:16.368] - client - INFO - 46 bytes from 54.176.53.206: time=597.13 ms
+[2024-11-01T22:30:17.168] - client - INFO - 46 bytes from 54.176.53.206: time=598.44 ms
+[2024-11-01T22:30:17.966] - client - INFO - 46 bytes from 54.176.53.206: time=597.29 ms
+[2024-11-01T22:30:18.766] - client - INFO - 46 bytes from 54.176.53.206: time=599.00 ms
+[2024-11-01T22:30:19.407] - client - INFO - 46 bytes from 54.176.53.206: time=440.30 ms
+[2024-11-01T22:30:19.885] - client - INFO - 46 bytes from 54.176.53.206: time=276.76 ms
+[2024-11-01T22:30:20.529] - client - INFO - 46 bytes from 54.176.53.206: time=442.05 ms
+[2024-11-01T22:30:21.167] - client - INFO - 46 bytes from 54.176.53.206: time=436.47 ms
+[2024-11-01T22:30:21.807] - client - INFO - 46 bytes from 54.176.53.206: time=438.90 ms
+[2024-11-01T22:30:22.447] - client - INFO - 46 bytes from 54.176.53.206: time=438.66 ms
+[2024-11-01T22:30:23.088] - client - INFO - 46 bytes from 54.176.53.206: time=439.57 ms
+[2024-11-01T22:30:23.727] - client - INFO - 46 bytes from 54.176.53.206: time=438.03 ms
+[2024-11-01T22:30:24.532] - client - INFO - 46 bytes from 54.176.53.206: time=604.18 ms
+[2024-11-01T22:30:25.175] - client - INFO - 46 bytes from 54.176.53.206: time=442.22 ms
+[2024-11-01T22:30:25.969] - client - INFO - 46 bytes from 54.176.53.206: time=592.38 ms
+[2024-11-01T22:30:26.683] - client - INFO - 46 bytes from 54.176.53.206: time=512.60 ms
+[2024-11-01T22:30:27.408] - client - INFO - 46 bytes from 54.176.53.206: time=522.64 ms
+[2024-11-01T22:30:28.206] - client - INFO - 46 bytes from 54.176.53.206: time=596.10 ms
+[2024-11-01T22:30:28.850] - client - INFO - 46 bytes from 54.176.53.206: time=443.40 ms
+[2024-11-01T22:30:29.487] - client - INFO - 46 bytes from 54.176.53.206: time=436.35 ms
+[2024-11-01T22:30:30.128] - client - INFO - 46 bytes from 54.176.53.206: time=439.50 ms
+[2024-11-01T22:30:30.775] - client - INFO - 46 bytes from 54.176.53.206: time=446.12 ms
+[2024-11-01T22:30:31.407] - client - INFO - 46 bytes from 54.176.53.206: time=430.97 ms
+[2024-11-01T22:30:32.087] - client - INFO - 46 bytes from 54.176.53.206: time=479.26 ms
+[2024-11-01T22:30:32.686] - client - INFO - 46 bytes from 54.176.53.206: time=398.01 ms
+[2024-11-01T22:30:33.327] - client - INFO - 46 bytes from 54.176.53.206: time=440.10 ms
+[2024-11-01T22:30:34.128] - client - INFO - 46 bytes from 54.176.53.206: time=598.99 ms
+[2024-11-01T22:30:34.767] - client - INFO - 46 bytes from 54.176.53.206: time=438.43 ms
+[2024-11-01T22:30:35.406] - client - INFO - 46 bytes from 54.176.53.206: time=437.01 ms
+[2024-11-01T22:30:36.210] - client - INFO - 46 bytes from 54.176.53.206: time=603.02 ms
+[2024-11-01T22:30:37.007] - client - INFO - 46 bytes from 54.176.53.206: time=595.75 ms
+[2024-11-01T22:30:37.808] - client - INFO - 46 bytes from 54.176.53.206: time=599.56 ms
+[2024-11-01T22:30:38.447] - client - INFO - 46 bytes from 54.176.53.206: time=437.47 ms
+End time: 1730525438706

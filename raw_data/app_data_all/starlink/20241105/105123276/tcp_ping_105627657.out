@@ -1,0 +1,158 @@
+Start time: 1730825787634
+[2024-11-05T10:56:27.898] - client - INFO - Connected to 54.197.223.49:65432
+[2024-11-05T10:56:27.898] - client - INFO - PING 54.197.223.49 26(66) bytes of data.
+[2024-11-05T10:56:27.975] - client - INFO - 46 bytes from 54.197.223.49: time=76.53 ms
+[2024-11-05T10:56:28.252] - client - INFO - 46 bytes from 54.197.223.49: time=76.52 ms
+[2024-11-05T10:56:28.529] - client - INFO - 46 bytes from 54.197.223.49: time=74.38 ms
+[2024-11-05T10:56:28.807] - client - INFO - 46 bytes from 54.197.223.49: time=76.34 ms
+[2024-11-05T10:56:29.086] - client - INFO - 46 bytes from 54.197.223.49: time=77.23 ms
+[2024-11-05T10:56:29.364] - client - INFO - 46 bytes from 54.197.223.49: time=75.69 ms
+[2024-11-05T10:56:29.644] - client - INFO - 46 bytes from 54.197.223.49: time=79.75 ms
+[2024-11-05T10:56:29.924] - client - INFO - 46 bytes from 54.197.223.49: time=78.00 ms
+[2024-11-05T10:56:30.239] - client - INFO - 46 bytes from 54.197.223.49: time=113.15 ms
+[2024-11-05T10:56:30.515] - client - INFO - 46 bytes from 54.197.223.49: time=76.02 ms
+[2024-11-05T10:56:30.788] - client - INFO - 46 bytes from 54.197.223.49: time=70.09 ms
+[2024-11-05T10:56:31.071] - client - INFO - 46 bytes from 54.197.223.49: time=81.65 ms
+[2024-11-05T10:56:31.364] - client - INFO - 46 bytes from 54.197.223.49: time=91.27 ms
+[2024-11-05T10:56:31.636] - client - INFO - 46 bytes from 54.197.223.49: time=71.11 ms
+[2024-11-05T10:56:31.909] - client - INFO - 46 bytes from 54.197.223.49: time=72.12 ms
+[2024-11-05T10:56:32.186] - client - INFO - 46 bytes from 54.197.223.49: time=76.01 ms
+[2024-11-05T10:56:32.460] - client - INFO - 46 bytes from 54.197.223.49: time=72.87 ms
+[2024-11-05T10:56:32.746] - client - INFO - 46 bytes from 54.197.223.49: time=84.28 ms
+[2024-11-05T10:56:33.016] - client - INFO - 46 bytes from 54.197.223.49: time=69.45 ms
+[2024-11-05T10:56:33.317] - client - INFO - 46 bytes from 54.197.223.49: time=98.42 ms
+[2024-11-05T10:56:33.588] - client - INFO - 46 bytes from 54.197.223.49: time=69.86 ms
+[2024-11-05T10:56:33.860] - client - INFO - 46 bytes from 54.197.223.49: time=71.11 ms
+[2024-11-05T10:56:34.130] - client - INFO - 46 bytes from 54.197.223.49: time=68.40 ms
+[2024-11-05T10:56:34.407] - client - INFO - 46 bytes from 54.197.223.49: time=74.33 ms
+[2024-11-05T10:56:34.686] - client - INFO - 46 bytes from 54.197.223.49: time=77.10 ms
+[2024-11-05T10:56:34.964] - client - INFO - 46 bytes from 54.197.223.49: time=75.30 ms
+[2024-11-05T10:56:35.241] - client - INFO - 46 bytes from 54.197.223.49: time=75.93 ms
+[2024-11-05T10:56:35.521] - client - INFO - 46 bytes from 54.197.223.49: time=77.69 ms
+[2024-11-05T10:56:35.806] - client - INFO - 46 bytes from 54.197.223.49: time=83.50 ms
+[2024-11-05T10:56:36.084] - client - INFO - 46 bytes from 54.197.223.49: time=75.41 ms
+[2024-11-05T10:56:36.361] - client - INFO - 46 bytes from 54.197.223.49: time=73.46 ms
+[2024-11-05T10:56:36.644] - client - INFO - 46 bytes from 54.197.223.49: time=82.32 ms
+[2024-11-05T10:56:36.916] - client - INFO - 46 bytes from 54.197.223.49: time=69.70 ms
+[2024-11-05T10:56:37.198] - client - INFO - 46 bytes from 54.197.223.49: time=80.93 ms
+[2024-11-05T10:56:37.474] - client - INFO - 46 bytes from 54.197.223.49: time=75.11 ms
+[2024-11-05T10:56:37.747] - client - INFO - 46 bytes from 54.197.223.49: time=72.33 ms
+[2024-11-05T10:56:38.018] - client - INFO - 46 bytes from 54.197.223.49: time=70.68 ms
+[2024-11-05T10:56:38.304] - client - INFO - 46 bytes from 54.197.223.49: time=84.10 ms
+[2024-11-05T10:56:38.594] - client - INFO - 46 bytes from 54.197.223.49: time=88.80 ms
+[2024-11-05T10:56:38.882] - client - INFO - 46 bytes from 54.197.223.49: time=86.08 ms
+[2024-11-05T10:56:39.171] - client - INFO - 46 bytes from 54.197.223.49: time=87.35 ms
+[2024-11-05T10:56:39.457] - client - INFO - 46 bytes from 54.197.223.49: time=83.64 ms
+[2024-11-05T10:56:39.745] - client - INFO - 46 bytes from 54.197.223.49: time=85.63 ms
+[2024-11-05T10:56:40.034] - client - INFO - 46 bytes from 54.197.223.49: time=87.82 ms
+[2024-11-05T10:56:40.321] - client - INFO - 46 bytes from 54.197.223.49: time=86.66 ms
+[2024-11-05T10:56:40.609] - client - INFO - 46 bytes from 54.197.223.49: time=86.65 ms
+[2024-11-05T10:56:40.898] - client - INFO - 46 bytes from 54.197.223.49: time=86.09 ms
+[2024-11-05T10:56:41.204] - client - INFO - 46 bytes from 54.197.223.49: time=104.45 ms
+[2024-11-05T10:56:41.492] - client - INFO - 46 bytes from 54.197.223.49: time=86.53 ms
+[2024-11-05T10:56:41.766] - client - INFO - 46 bytes from 54.197.223.49: time=73.10 ms
+[2024-11-05T10:56:51.440] - client - ERROR - Error sending ping 51: [Errno 104] Connection reset by peer
+[2024-11-05T10:56:51.441] - client - ERROR - Error sending ping 52: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.442] - client - ERROR - Error sending ping 53: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.442] - client - ERROR - Error sending ping 54: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.442] - client - ERROR - Error sending ping 55: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.442] - client - ERROR - Error sending ping 56: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.442] - client - ERROR - Error sending ping 57: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.442] - client - ERROR - Error sending ping 58: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.443] - client - ERROR - Error sending ping 59: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.443] - client - ERROR - Error sending ping 60: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.443] - client - ERROR - Error sending ping 61: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.443] - client - ERROR - Error sending ping 62: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.443] - client - ERROR - Error sending ping 63: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.443] - client - ERROR - Error sending ping 64: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.444] - client - ERROR - Error sending ping 65: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.444] - client - ERROR - Error sending ping 66: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.444] - client - ERROR - Error sending ping 67: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.444] - client - ERROR - Error sending ping 68: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.444] - client - ERROR - Error sending ping 69: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.444] - client - ERROR - Error sending ping 70: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.445] - client - ERROR - Error sending ping 71: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.445] - client - ERROR - Error sending ping 72: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.445] - client - ERROR - Error sending ping 73: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.445] - client - ERROR - Error sending ping 74: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.445] - client - ERROR - Error sending ping 75: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.445] - client - ERROR - Error sending ping 76: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.446] - client - ERROR - Error sending ping 77: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.446] - client - ERROR - Error sending ping 78: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.446] - client - ERROR - Error sending ping 79: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.446] - client - ERROR - Error sending ping 80: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.446] - client - ERROR - Error sending ping 81: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.446] - client - ERROR - Error sending ping 82: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.447] - client - ERROR - Error sending ping 83: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.447] - client - ERROR - Error sending ping 84: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.447] - client - ERROR - Error sending ping 85: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.447] - client - ERROR - Error sending ping 86: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.447] - client - ERROR - Error sending ping 87: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.447] - client - ERROR - Error sending ping 88: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.447] - client - ERROR - Error sending ping 89: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.448] - client - ERROR - Error sending ping 90: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.448] - client - ERROR - Error sending ping 91: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.448] - client - ERROR - Error sending ping 92: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.448] - client - ERROR - Error sending ping 93: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.448] - client - ERROR - Error sending ping 94: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.449] - client - ERROR - Error sending ping 95: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.449] - client - ERROR - Error sending ping 96: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.449] - client - ERROR - Error sending ping 97: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.449] - client - ERROR - Error sending ping 98: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.449] - client - ERROR - Error sending ping 99: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.449] - client - ERROR - Error sending ping 100: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.450] - client - ERROR - Error sending ping 101: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.450] - client - ERROR - Error sending ping 102: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.450] - client - ERROR - Error sending ping 103: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.450] - client - ERROR - Error sending ping 104: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.450] - client - ERROR - Error sending ping 105: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.450] - client - ERROR - Error sending ping 106: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.451] - client - ERROR - Error sending ping 107: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.451] - client - ERROR - Error sending ping 108: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.451] - client - ERROR - Error sending ping 109: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.451] - client - ERROR - Error sending ping 110: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.451] - client - ERROR - Error sending ping 111: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.451] - client - ERROR - Error sending ping 112: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.451] - client - ERROR - Error sending ping 113: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.452] - client - ERROR - Error sending ping 114: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.452] - client - ERROR - Error sending ping 115: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.452] - client - ERROR - Error sending ping 116: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.452] - client - ERROR - Error sending ping 117: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.452] - client - ERROR - Error sending ping 118: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.452] - client - ERROR - Error sending ping 119: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.453] - client - ERROR - Error sending ping 120: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.453] - client - ERROR - Error sending ping 121: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.453] - client - ERROR - Error sending ping 122: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.453] - client - ERROR - Error sending ping 123: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.453] - client - ERROR - Error sending ping 124: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.453] - client - ERROR - Error sending ping 125: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.454] - client - ERROR - Error sending ping 126: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.454] - client - ERROR - Error sending ping 127: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.454] - client - ERROR - Error sending ping 128: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.454] - client - ERROR - Error sending ping 129: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.454] - client - ERROR - Error sending ping 130: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.454] - client - ERROR - Error sending ping 131: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.454] - client - ERROR - Error sending ping 132: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.455] - client - ERROR - Error sending ping 133: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.455] - client - ERROR - Error sending ping 134: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.455] - client - ERROR - Error sending ping 135: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.455] - client - ERROR - Error sending ping 136: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.455] - client - ERROR - Error sending ping 137: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.455] - client - ERROR - Error sending ping 138: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.456] - client - ERROR - Error sending ping 139: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.456] - client - ERROR - Error sending ping 140: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.456] - client - ERROR - Error sending ping 141: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.456] - client - ERROR - Error sending ping 142: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.456] - client - ERROR - Error sending ping 143: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.456] - client - ERROR - Error sending ping 144: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.457] - client - ERROR - Error sending ping 145: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.457] - client - ERROR - Error sending ping 146: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.457] - client - ERROR - Error sending ping 147: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.457] - client - ERROR - Error sending ping 148: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.457] - client - ERROR - Error sending ping 149: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.457] - client - ERROR - Error sending ping 150: [Errno 32] Broken pipe
+[2024-11-05T10:56:51.458] - client - INFO - 
+--- 54.197.223.49 ping statistics ---
+[2024-11-05T10:56:51.458] - client - INFO - 150 packets transmitted, 50 received, 66.7% packet loss
+[2024-11-05T10:56:51.458] - client - INFO - rtt min/avg/max/mdev = 68.397/79.818/113.148/9.014 ms
+End time: 1730825818714

@@ -1,0 +1,14 @@
+Start time: 1730922724942
+[2024-11-06T14:52:19.665211-0500] PING 54.197.223.49 (54.197.223.49) 38(66) bytes of data.
+[2024-11-06T14:52:19.666121-0500] From 100.71.228.13: icmp_seq=57 Destination Host Unreachable
+[2024-11-06T14:52:19.666299-0500] From 100.71.228.13: icmp_seq=58 Destination Host Unreachable
+[2024-11-06T14:52:19.666387-0500] From 100.71.228.13: icmp_seq=59 Destination Host Unreachable
+[2024-11-06T14:52:19.666466-0500] From 100.71.228.13: icmp_seq=60 Destination Host Unreachable
+[2024-11-06T14:52:19.666543-0500] From 100.71.228.13: icmp_seq=61 Destination Host Unreachable
+[2024-11-06T14:52:19.666619-0500] From 100.71.228.13: icmp_seq=62 Destination Host Unreachable
+[2024-11-06T14:52:19.666685-0500] From 100.71.228.13: icmp_seq=63 Destination Host Unreachable
+[2024-11-06T14:52:19.666729-0500] 
+[2024-11-06T14:52:19.666773-0500] --- 54.197.223.49 ping statistics ---
+[2024-11-06T14:52:19.666816-0500] 72 packets transmitted, 0 received, +7 errors, 100% packet loss, time 14640ms
+[2024-11-06T14:52:19.666858-0500] pipe 16
+End time: 1730922756026

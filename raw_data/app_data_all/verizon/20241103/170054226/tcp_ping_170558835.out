@@ -1,0 +1,6 @@
+Start time: 1730678758811
+[2024-11-03T17:05:59.207] - client - INFO - Connected to 54.176.53.206:65432
+[2024-11-03T17:05:59.208] - client - INFO - PING 54.176.53.206 26(66) bytes of data.
+[2024-11-03T17:05:59.649] - client - INFO - 46 bytes from 54.176.53.206: time=441.36 ms
+[2024-11-03T17:06:01.044] - client - INFO - 46 bytes from 54.176.53.206: time=1193.94 ms
+End time: 1730678789960

@@ -1,0 +1,35 @@
+Start time: 1730698635845
+[2024-11-03T22:37:27.949822-0700] nuttcp-t: v8.1.4: socket
+[2024-11-03T22:37:27.950530-0700] nuttcp-t: buflen=65536, nstream=1, port=5103 tcp -> 54.176.53.206
+[2024-11-03T22:37:27.950588-0700] nuttcp-t: time limit = 120.00 seconds
+[2024-11-03T22:37:27.950623-0700] nuttcp-t: connect to 54.176.53.206 with mss=1448, RTT=55.699 ms af=inet
+[2024-11-03T22:37:27.950654-0700] nuttcp-t: send window size = 1048576, receive window size = 1048576
+[2024-11-03T22:37:27.950683-0700] nuttcp-t: available send window = 786432, available receive window = 786432
+[2024-11-03T22:37:27.950717-0700] nuttcp-t: initial congestion window = 14 KB (10 packets)
+[2024-11-03T22:37:27.950746-0700] nuttcp-r: v6.1.2: socket
+[2024-11-03T22:37:27.950776-0700] nuttcp-r: buflen=65536, nstream=1, port=5103 tcp
+[2024-11-03T22:37:27.950804-0700] nuttcp-r: interval reporting every 0.50 seconds
+[2024-11-03T22:37:27.950833-0700] nuttcp-r: accept from 216.147.123.96
+[2024-11-03T22:37:27.950863-0700] nuttcp-r: send window size = 450000000, receive window size = 450000000
+[2024-11-03T22:37:27.950894-0700] nuttcp-r: available send window = 225000000, available receive window = 225000000
+[2024-11-03T22:37:27.950925-0700]     0.2500 MB /   0.50 sec =    4.1941 Mbps    65 retrans    127 KB-cwnd
+[2024-11-03T22:37:27.950954-0700]     0.0625 MB /   0.50 sec =    1.0486 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375262-0700]     0.0625 MB /   0.50 sec =    1.0486 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375505-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375565-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375614-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375662-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375716-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375764-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375811-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375856-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375937-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.375990-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.376037-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.376083-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.376129-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.376174-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.376220-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.376269-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+[2024-11-03T22:37:35.376315-0700]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans    127 KB-cwnd
+End time: 1730698756926

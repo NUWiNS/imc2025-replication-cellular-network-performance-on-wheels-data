@@ -1,0 +1,15 @@
+Start time: 1730678760575
+[2024-11-03T17:06:00.925] - client - INFO - Connected to 54.176.53.206:65432
+[2024-11-03T17:06:00.925] - client - INFO - PING 54.176.53.206 26(66) bytes of data.
+[2024-11-03T17:06:02.623] - client - INFO - 46 bytes from 54.176.53.206: time=1697.33 ms
+[2024-11-03T17:06:10.453] - client - INFO - 46 bytes from 54.176.53.206: time=7629.27 ms
+[2024-11-03T17:06:22.302] - client - INFO - 46 bytes from 54.176.53.206: time=11647.62 ms
+[2024-11-03T17:06:22.630] - client - INFO - 46 bytes from 54.176.53.206: time=127.51 ms
+[2024-11-03T17:06:22.982] - client - INFO - 46 bytes from 54.176.53.206: time=150.09 ms
+[2024-11-03T17:06:23.350] - client - INFO - 46 bytes from 54.176.53.206: time=166.60 ms
+[2024-11-03T17:06:23.741] - client - INFO - 46 bytes from 54.176.53.206: time=190.24 ms
+[2024-11-03T17:06:24.330] - client - INFO - 46 bytes from 54.176.53.206: time=386.94 ms
+[2024-11-03T17:06:24.649] - client - INFO - 46 bytes from 54.176.53.206: time=118.16 ms
+[2024-11-03T17:06:25.002] - client - INFO - 46 bytes from 54.176.53.206: time=152.46 ms
+[2024-11-03T17:06:26.175] - client - INFO - 46 bytes from 54.176.53.206: time=971.53 ms
+End time: 1730678791741

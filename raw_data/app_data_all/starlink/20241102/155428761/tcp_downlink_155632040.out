@@ -1,0 +1,19 @@
+Start time: 1730584591985
+[2024-11-02T15:56:32.832305-0600] nuttcp-r: v8.1.4: socket
+[2024-11-02T15:56:32.832735-0600] nuttcp-r: buflen=65536, nstream=1, port=5103 tcp
+[2024-11-02T15:56:32.832785-0600] nuttcp-r: interval reporting every 0.50 seconds
+[2024-11-02T15:56:32.832823-0600] nuttcp-r: connect to 54.176.53.206 with RTT=49.125 ms af=inet
+[2024-11-02T15:56:32.832859-0600] nuttcp-r: send window size = 1048576, receive window size = 1048576
+[2024-11-02T15:56:32.832892-0600] nuttcp-r: available send window = 786432, available receive window = 786432
+[2024-11-02T15:56:32.832925-0600]     0.4375 MB /   0.50 sec =    7.3392 Mbps     0 retrans
+[2024-11-02T15:56:33.332344-0600]     1.1875 MB /   0.50 sec =   19.9225 Mbps     0 retrans
+[2024-11-02T15:56:33.834343-0600]     0.0000 MB /   0.50 sec =    0.0000 Mbps     0 retrans
+[2024-11-02T15:56:34.332933-0600]     1.6875 MB /   0.50 sec =   28.3846 Mbps     0 retrans
+[2024-11-02T15:56:34.832354-0600]     2.3125 MB /   0.50 sec =   38.7983 Mbps     0 retrans
+[2024-11-02T15:56:35.332904-0600]     2.7500 MB /   0.50 sec =   46.1287 Mbps     0 retrans
+[2024-11-02T15:56:35.832954-0600]     3.2500 MB /   0.50 sec =   54.4863 Mbps     0 retrans
+[2024-11-02T15:56:36.333643-0600]     1.8125 MB /   0.50 sec =   30.3626 Mbps     0 retrans
+[2024-11-02T15:56:36.832412-0600]     3.8750 MB /   0.50 sec =   65.1671 Mbps     0 retrans
+[2024-11-02T15:56:37.332331-0600]     1.6250 MB /   0.50 sec =   27.2646 Mbps     0 retrans
+[2024-11-02T15:56:37.832518-0600]     4.0000 MB /   0.50 sec =   67.0889 Mbps     0 retrans
+End time: 1730584598139
