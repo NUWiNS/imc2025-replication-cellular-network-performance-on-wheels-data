@@ -53,7 +53,7 @@ git lfs pull
 Please cite appropriately if you find the dataset useful.
 
 ```bibtex
-@article{ghoshal2025performance,
+@article{ghoshal:imc2025,
   title={Replication: Performance of Cellular Networks on the Wheels},
   author={Ghoshal, Moinak and Basit, Omar and Khan, Imran and Kong, Z Jonny and Wang, Sizhe and Feng, Yufei and Dinh, Phuc and Hu, Y Charlie and Koutsonikolas, Dimitrios},
   booktitle={Proceedings of the 25th ACM Internet Measurement Conference},
