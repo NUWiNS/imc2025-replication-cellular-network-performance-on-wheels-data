@@ -39,28 +39,6 @@ paper, *Replication: Performance of Cellular Networks on the Wheels*.
 
 ---
 
-## Example Usage
-
-Run the following commands from the repository root:
-
-1. **Process raw data into `.pkl` files**:
-   ```bash
-   python scripts/coverage_script.py --process
-   python scripts/performance_script.py --process
-   ```
-
-   → Processed data will be saved in the `pkls/` folder.
-
-2. **Parse processed data and generate plots**:
-   ```bash
-   python scripts/coverage_script.py --parse
-   python scripts/performance_script.py --parse
-   ```
-
-   → Figures and results will be stored in the `plots/` folder.
-
----
-
 ## Data Access
 
 Note: Use the following command to download large dataset files stored with Git LFS:
