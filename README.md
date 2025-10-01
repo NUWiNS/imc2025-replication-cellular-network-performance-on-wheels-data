@@ -7,15 +7,15 @@ paper, *Replication: Performance of Cellular Networks on the Wheels*.
 <img src="route_with_states_simple_replication.png" width="400"/>
 </p>
 
-**Authors**:  
-[[Moinak Ghoshal](https://sites.google.com/view/moinak-ghoshal/home)]  
-[[Omar Basit](https://scholar.google.com/citations?user=O8YhcToAAAAJ&hl=en)]  
-[[Imran Khan](https://imranbuet63.github.io)]  
-[[Z. Jonny Kong](https://www.jonnykong.com)]  
-[[Sizhe Wang](https://sizhewang.cn)]  
-[[Yufei Feng](https://www.linkedin.com/in/yufei-feng-7b268820b)]  
-[[Phuc Dinh](https://scholar.google.com/citations?user=87M0_7EAAAAJ&hl=en)]  
-[[Y. Charlie Hu](https://engineering.purdue.edu/~ychu/)]  
+**Authors**:
+[[Moinak Ghoshal](https://sites.google.com/view/moinak-ghoshal/home)] 
+[[Omar Basit](https://scholar.google.com/citations?user=O8YhcToAAAAJ&hl=en)] 
+[[Imran Khan](https://imranbuet63.github.io)]
+[[Z. Jonny Kong](https://www.jonnykong.com)]
+[[Sizhe Wang](https://sizhewang.cn)]
+[[Yufei Feng](https://www.linkedin.com/in/yufei-feng-7b268820b)]
+[[Phuc Dinh](https://scholar.google.com/citations?user=87M0_7EAAAAJ&hl=en)]
+[[Y. Charlie Hu](https://engineering.purdue.edu/~ychu/)]
 [[Dimitrios Koutsonikolas](https://ece.northeastern.edu/fac-ece/dkoutsonikolas/)]
 
 ---
