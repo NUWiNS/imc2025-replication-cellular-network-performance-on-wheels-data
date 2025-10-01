@@ -27,9 +27,9 @@ paper, *Replication: Performance of Cellular Networks on the Wheels*.
 
 - **`scripts/`**  
   Contains two Python scripts for generating processed data:
-  - Each script supports two flags:  
-    - `--process`: Reads the raw data and stores processed output in the `pkls/` folder.  
-    - `--parse`: Parses the processed data from `pkls/` and generates results/plots in the `plots/` folder.  
+  - Each script supports two flags inside the script. Set it to 1 to enable and 0 to disable:  
+    1. `process`: Reads the raw data and stores processed output in the `pkls/` folder.  
+    2. `parse`: Parses the processed data from `pkls/` and generates results/plots in the `plots/` folder.  
 
 - **`pkls/`**  
   Stores intermediate processed data (pickled Python objects).
