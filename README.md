@@ -26,11 +26,12 @@ paper, *Replication: Performance of Cellular Networks on the Wheels*.
   Contains the original measurement data in `.xlsx` and `.csv` formats.
 
 - **`scripts/`**  
-  Contains two Python scripts for generating processed data:
-  - Each script supports two flags inside the script. Set it to 1 to enable and 0 to disable:  
-    1. `process`: Reads the raw data and stores processed output in the `pkls/` folder.  
-    2. `parse`: Parses the processed data from `pkls/` and generates results/plots in the `plots/` folder.  
-
+  The scripts directory contains two types of scripts:
+  1. **Process data scripts** — `parse_sa_nsa_perf_data_2023.py` and `parse_sa_nsa_perf_data_2024_lax_bos.py`  
+     These scripts use the raw measurement data from the `raw_data/` directory and generate processed pickle (`.pkl`) files, which are stored in the `pkls/` folder.  
+  2. **Parse data scripts** — `plot-figures.py` generates all figures presented in the ACM CoNEXT paper using both 2023 and 2024 datasets.  
+     Additionally, `tmobile_nsa_sa_boston.py` and `tmobile_nsa_sa_chicago.py` generate plots specific to the head-to-head SA vs. NSA analysis conducted in Boston and Chicago.
+     
 - **`pkls/`**  
   Stores intermediate processed data (pickled Python objects).
 
